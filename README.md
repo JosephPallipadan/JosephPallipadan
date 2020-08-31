@@ -34,17 +34,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Joseph's Github Stats" width="90%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
-
-</details>
+<img align="left" alt="Joseph's Github Stats" width="90%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
 
 [linkedin]: https://www.linkedin.com/in/joseph-p-8a2695141/
 [twitter]: https://twitter.com/JPallipadan
