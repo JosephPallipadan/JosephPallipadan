@@ -36,8 +36,5 @@
 
 <img align="left" alt="Joseph's Github Stats" width="100%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
 
-<img align="left" alt="Joseph's Github Stats" width="100%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api/top-langs/?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
-
-
 [linkedin]: https://www.linkedin.com/in/joseph-p-8a2695141/
 [twitter]: https://twitter.com/JPallipadan
