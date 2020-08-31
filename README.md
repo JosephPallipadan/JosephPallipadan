@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## I'm Joseph, A Sophomore at Michigan State University!
+=======
+## I'm Joseph, a Sophomore at Michigan State University!
+>>>>>>> 37dc18c2193d11b6097e0b01f00dfa51308e871e
 
 - 🔭 I’m currently working on a website for a lxury watch subscription service, doing research in human behaviour simulation, learning Japanese and trying to 4.0 my third semester!
 - 🌱 I’m hoping to learn WebAssembly + Rust along with Flutter, Socket.io, and three.js
