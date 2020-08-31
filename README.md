@@ -7,6 +7,7 @@
 ### Spotify Playing 🎧
 
 <img src="https://novatorem.josephpallipadan.vercel.app/api/spotify-playing" alt="Joseph Spotify Playing" width="350" />
+![Spotify](https://novatorem.josephpallipadan.vercel.app/api/spotify)
 
 ### Connect with me:
 
