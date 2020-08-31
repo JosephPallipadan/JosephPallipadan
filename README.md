@@ -2,6 +2,8 @@
   <img src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Header.mp4" alt="header"/>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/JosephPallipadan/count.svg)
+
 - 🔭 I’m currently working on a website for a luxury watch subscription service, working on a research project in human behaviour simulation, learning Japanese and trying to 4.0 my third semester!
 - 🌱 I’m hoping to learn WebAssembly + Rust along with Flutter, Socket.io, and three.js
 - 🥅 2020 Goals: Land an Internship
