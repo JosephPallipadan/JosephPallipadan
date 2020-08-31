@@ -34,6 +34,9 @@
 
 <img align="left" alt="Joseph's Github Stats" width="100%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
 
+<br />
+<br />
+
 ### Spotify Playing 🎧
 
 <img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
