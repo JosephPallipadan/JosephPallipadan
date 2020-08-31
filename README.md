@@ -13,6 +13,10 @@
 
 <br />
 
+### Spotify Playing 🎧
+
+<img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,17 +37,6 @@
 <br />
 
 <img align="left" alt="Joseph's Github Stats" width="100%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-### Spotify Playing 🎧
-
-<img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
 
 
 [linkedin]: https://www.linkedin.com/in/joseph-p-8a2695141/
