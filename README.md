@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
 
 </details>
 
