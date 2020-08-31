@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/ezgif.com-gif-maker.gif" alt="header"/>
+  <img src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Header.mp4" alt="header"/>
 </div>
 
 - 🔭 I’m currently working on a website for a luxury watch subscription service, working on a research project in human behaviour simulation, learning Japanese and trying to 4.0 my third semester!
