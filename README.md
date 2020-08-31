@@ -1,4 +1,6 @@
-## I'm Joseph, a Sophomore at Michigan State University!
+<div align="center">
+  <img src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/ezgif.com-gif-maker.gif" alt="header"/>
+</div>
 
 - 🔭 I’m currently working on a website for a luxury watch subscription service, working on a research project in human behaviour simulation, learning Japanese and trying to 4.0 my third semester!
 - 🌱 I’m hoping to learn WebAssembly + Rust along with Flutter, Socket.io, and three.js
