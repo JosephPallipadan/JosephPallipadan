@@ -4,16 +4,18 @@
 - 🌱 I’m hoping to learn WebAssembly + Rust along with Flutter, Socket.io, and three.js
 - 🥅 2020 Goals: Land an Internship
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joseph Pallipadan | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<br />
+<br />
+[<img align="left" alt="Joseph Pallipadan | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
+
+### Spotify Playing 🎧
+
+<img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
 
 ### Languages and Tools:
 
@@ -34,17 +36,8 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+<img align="left" alt="Joseph's Github Stats" width="100%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
 
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/joseph-p-8a2695141/
 [twitter]: https://twitter.com/JPallipadan
