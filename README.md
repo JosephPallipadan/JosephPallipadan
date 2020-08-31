@@ -4,10 +4,6 @@
 - 🌱 I’m hoping to learn WebAssembly + Rust along with Flutter, Socket.io, and three.js
 - 🥅 2020 Goals: Land an Internship
 
-### Spotify Playing 🎧
-
-<img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
-
 ### Connect with me:
 
 [<img align="left" alt="Joseph Pallipadan | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -37,6 +33,11 @@
 <br />
 
 <img align="left" alt="Joseph's Github Stats" width="100%" src="https://github-readme-stats-git-master.josephpallipadan.vercel.app/api?username=JosephPallipadan&show_icons=true&count_private=true&theme=dracula" />
+
+### Spotify Playing 🎧
+
+<img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
+
 
 [linkedin]: https://www.linkedin.com/in/joseph-p-8a2695141/
 [twitter]: https://twitter.com/JPallipadan
