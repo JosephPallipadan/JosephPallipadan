@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Header.gif" alt="header"/>
 </div>
 
-![Visits Badge](https://badges.pufler.dev/visits/JosephPallipadan/JosephPallipadan)
+![Visits Badge](https://badges.pufler.dev/visits/JosephPallipadan/JosephPallipadan) <br />
 [Here's my Resume!](https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Resume.pdf)
 
 - 🔭 I’m currently working on a website for a luxury watch subscription service, working on a research project in human behaviour simulation, learning Japanese and trying to 4.0 my third semester!
