@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Intro%20Vid.mp4" alt="header"/>
+  <img width="100%" src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Intro%20Vid.gif" alt="header"/>
 </div>
 
 ![Visits Badge](https://badges.pufler.dev/visits/JosephPallipadan/JosephPallipadan) <br />
