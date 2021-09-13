@@ -5,7 +5,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/JosephPallipadan/JosephPallipadan) <br />
 [Here's my Resume!](https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Resume%20-%20Joseph%20Pallipadan.pdf)
 
-- 🔭 I’m currently working on a website for a luxury watch subscription service, working on a research project in 3d reconstruction, learning Japanese and trying to 4.0 my fifth semester!
+- 🔭 I’m currently working on a research project in 3d reconstruction, learning Japanese and trying to 4.0 my fifth semester!
 - 🌱 I’m hoping to learn WebAssembly + Rust along with Flutter, and three.js
 - 🥅 2021 Goals: Land an Internship
 
