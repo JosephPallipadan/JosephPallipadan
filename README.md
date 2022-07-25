@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Intro%20Vid.gif" alt="header"/>
 </div>
 
-[![HitCount](https://hits.dwyl.com/JosephPallipadan/https://githubcom/JosephPallipadan/JosephPallipadan.svg?style=flat-square)](http://hits.dwyl.com/JosephPallipadan/https://githubcom/JosephPallipadan/JosephPallipadan) <br />
+[![HitCount](https://hits.dwyl.com/JosephPallipadan/JosephPallipadan.svg?style=flat-square)](http://hits.dwyl.com/JosephPallipadan/JosephPallipadan) <br />
 
 ### Connect with me:
 
