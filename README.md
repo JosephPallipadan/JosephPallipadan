@@ -2,8 +2,7 @@
   <img width="100%" src="https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Intro%20Vid.gif" alt="header"/>
 </div>
 
-![Visits Badge](https://badges.pufler.dev/visits/JosephPallipadan/JosephPallipadan) <br />
-[Here's my Resume!](https://github.com/JosephPallipadan/JosephPallipadan/blob/master/Resume%20-%20Joseph%20Pallipadan.pdf)
+[![HitCount](https://hits.dwyl.com/JosephPallipadan/https://githubcom/JosephPallipadan/JosephPallipadan.svg?style=flat-square)](http://hits.dwyl.com/JosephPallipadan/https://githubcom/JosephPallipadan/JosephPallipadan) <br />
 
 ### Connect with me:
 
