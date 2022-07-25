@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://novatorem.josephpallipadan.vercel.app/api/spotify" alt="Joseph Spotify Playing" width="100%" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ml4ch8x0zjjcwmc3dx9r3o7mc&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br />
 <br />
